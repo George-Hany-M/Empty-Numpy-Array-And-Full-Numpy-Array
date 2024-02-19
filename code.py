@@ -1,4 +1,4 @@
-# George Hany :)
+# My Name : George Hany
 # How to create an empty and a full Numpy array ?
 
 # First, to create an empty numpy array we use "numpy.empty()" function with a specified shape.
@@ -48,4 +48,3 @@ arr_2 = np.full((6, 2), 7, dtype = int)
 print('Full arr_2')
 print()
 print(arr_2)
-
