@@ -1,4 +1,5 @@
 # My Name : George Hany
+
 # How to create an empty and a full Numpy array ?
 
 # First, to create an empty numpy array we use "numpy.empty()" function with a specified shape.
